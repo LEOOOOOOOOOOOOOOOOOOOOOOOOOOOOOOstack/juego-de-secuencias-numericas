@@ -1,5 +1,6 @@
 {
     "name": "Juego de secuencias numericas",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*"
